@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dog breed photo</string>
+    <string name="cocker">COCKER SPANIEL</string>
+    <string name="descripcion">Description</string>
+    <string name="descripcion_cocker">The English Cocker Spaniel is balanced of medium size. It has a smooth, silky coat with many fringes on the front legs. Cockers can be of many different colors and combinations: black, red, orange and plain brown, combinations of black with white, brown with white, red and white, roan blue, roan orange and black, particolored and also tricolor. Adult males measure between 39 and 41 cm and females between 38 and 39 cm. They weigh between 13 and 14.5 kg</string>
+</resources>
